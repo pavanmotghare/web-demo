@@ -1,2 +1,2 @@
 # web-demo
-This is for practicing the git &amp; github
+This is for practicing the git &amp; github class.
